@@ -4,6 +4,7 @@
 1. 基于`Python`开发，修改更加简便
 2. 使用`bootstrap`和相对UI布局，界面更加适配
 3. 由于部分原因，所以分成了两个仓库存储，[这是前端仓库](https://github.com/ByUsi-link/FoxCM-templates)，[这是后端仓库](https://github.com/ByUsi-link/FoxCM)
+4. [Demo](http://fcm.byusi.top)
 
 ---
 

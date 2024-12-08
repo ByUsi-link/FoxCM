@@ -8,14 +8,12 @@
 1. Git项目源码
     ```bash
     git clone https://github.com/ByUsi-link/FoxCM
+    cd FoxCM
+    git clone https://github.com/ByUsi-link/FoxCM-templates templates
     ```
-2. 解压压缩包
-    ```bash
-    unzip FoxCM_1.1.zip
-    ```
-3. 安装Python依赖
-4. 运行Python脚本
+2. 安装Python依赖
+3. 运行Python脚本
    ```bash
    python app.py
    ```
-5. 浏览器访问`http://127.0.0.1:6544`，后台访问`http://127.0.0.1:6544/admin`
+4. 浏览器访问`http://127.0.0.1:6544`，后台访问`http://127.0.0.1:6544/admin`

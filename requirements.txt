@@ -7,7 +7,7 @@ Flask==3.0.3
 idna==2.10
 itsdangerous==2.2.0
 Jinja2==3.1.4
-MarkupSafe==3.0.2
+MarkupSafe==2.1.4
 python-magic==0.4.27
 requests==2.24.0
 tornado==6.0.4
